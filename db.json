@@ -1,0 +1,66 @@
+{
+    "beers": [
+        {
+            "id": 0,
+            "name": "Alien Invasion",
+            "style": "Double IPA",
+            "percentage": 8,
+            "brewer": 0
+        },
+        {
+            "id": 1,
+            "name": "Hop Zombie",
+            "style": "Triple IPA",
+            "percentage": 10,
+            "brewer": 0
+        },
+        {
+            "id": 2,
+            "name": "Epic Pale Ale",
+            "style": "Pale Ale",
+            "percentage": 5.4,
+            "brewer": 0
+        },
+        {
+            "id": 3,
+            "name": "Sunrise Valley",
+            "style": "Hazy IPA",
+            "percentage": 8,
+            "brewer": 1
+        },
+        {
+            "id": 4,
+            "name": "Mutiny on the Bounty",
+            "style": "Stout",
+            "percentage": 11.2,
+            "brewer": 1
+        },
+        {
+            "id": 5,
+            "name": "Aotearoa IPA #15",
+            "style": "Hazy IPA",
+            "percentage": 6,
+            "brewer": 2
+        }
+    ],
+    "brewers": [
+        {
+            "id": 0,
+            "name": "Epic beer",
+            "website": "https://www.epicbeer.com",
+            "location": "Auckland"
+        },
+        {
+            "id": 1,
+            "name": "Garage Project",
+            "website": "https://garageproject.co.nz",
+            "location": "Wellington"
+        },
+        {
+            "id": 2,
+            "name": "Sawmill",
+            "website": "https://sawmillbrewery.co.nz",
+            "location": "Auckland"
+        }
+    ]
+}
